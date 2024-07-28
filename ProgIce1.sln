@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "indexes", "LinkedList\indexes.csproj", "{198E05E1-B8F8-47D3-96E5-C9D9055695FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingIndexes", "TestingLinkedList\TestingIndexes.csproj", "{2FAB2FF9-E0F7-44F5-9CD5-29D70FE1F9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198E05E1-B8F8-47D3-96E5-C9D9055695FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198E05E1-B8F8-47D3-96E5-C9D9055695FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198E05E1-B8F8-47D3-96E5-C9D9055695FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198E05E1-B8F8-47D3-96E5-C9D9055695FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAB2FF9-E0F7-44F5-9CD5-29D70FE1F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAB2FF9-E0F7-44F5-9CD5-29D70FE1F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAB2FF9-E0F7-44F5-9CD5-29D70FE1F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAB2FF9-E0F7-44F5-9CD5-29D70FE1F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384F498E-F966-4C00-9037-AB1AFF1FD218}
+	EndGlobalSection
+EndGlobal
